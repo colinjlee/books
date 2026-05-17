@@ -9,5 +9,7 @@
     - Jon Yablonski
 5. Algorithms to Live By
     - Brian Christian and Tom Griffiths
-6. Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are
+6. Everybody Lies
     - Seth Stephens-Davidowitz
+7. The Book of Why
+    - Judea Pearl and Dana Mackenzie
